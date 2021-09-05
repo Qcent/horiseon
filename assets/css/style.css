@@ -49,6 +49,13 @@ nav {
 header {
     padding: 20px;
     background-color: #2a607c;
+    justify-content: space-between;
+}
+
+header,
+nav {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 header h1 {
@@ -63,7 +70,7 @@ header h1 .seo {
 header nav {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    margin-left: auto;
     font-size: 20px;
 }
 
@@ -83,7 +90,8 @@ header nav ul li {
 /* Hero Style */
 
 .hero {
-    height: 800px;
+    height: 90vw;
+    max-height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");

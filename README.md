@@ -14,7 +14,7 @@
 * Now fully mobile responsive. Displays across all screen sizes without content popping out of boxes!
 
 ## See it in Action
-A live version on the landing page can be visited [Here](https://qcent.github.io/horiseon/) .
+A live version of the landing page can be visited [Here](https://qcent.github.io/horiseon/) .
 
 ## See it Through Facsimile
 The Desktop Version:

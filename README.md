@@ -22,5 +22,6 @@ A-lot like the original but makes use of flex box and does away with floats
 ![The deployed desktop site](assets/images/app-screenshot-desktop.png?raw=true)
 
 The Mobile Version:
-Like the original but makes use of flex box column layout to stack the services on top of the benefits
+Like the original but makes use of flex box column layout to stack the services on top of the benefits 
+ \
 ![The deployed mobile site](assets/images/app-screenshot-mobile.png?raw=true)
